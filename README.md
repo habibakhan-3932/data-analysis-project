@@ -19,10 +19,9 @@ It demonstrates skills in data cleaning, analysis, and visualization.
 
 #Sample Output
 Here are some of the generated visualizations:
-
-![Figure 1](Figure_1.png)
-![Figure 2](Figure_2.png)
-![Figure 3](Figure_3.png)
-![Figure 4](Figure_4.png)
+[Figure 1](Figure_1.png)
+[Figure 2](Figure_2.png)
+[Figure 3](Figure_3.png)
+[Figure 4](Figure_4.png)
 
 *Feel free to check the code, suggest improvements, or use it for learning purposes!*
