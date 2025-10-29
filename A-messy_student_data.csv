@@ -1,0 +1,261 @@
+Student_ID,Name,Gender,Age,Attendance,Math,Science,English,Study_Hours,Activities,Final_Result
+S1030,Imran  ,malee,19,87,45,9,92,2,no ,Faill
+S1181,Fatima,Female,17,65,49,1,87,8,No,Fail
+S1223,Aman,f,18,3,59,36,103,0,Yes,Fail
+S1185,Habiba ,Male,19,16,30,30,34,2,Yes,Fail
+S1211,Imran ,Femal,19,102,31,19,94,6,no ,Faill
+S1009,Rohan ,Femal,20,103,57,83,49,14,YES ,Fail
+S1173,Imran  ,Male,18,112,64,82,31,,n0,Faill
+S1142,Sanya  ,malee,19,90,9,107,93,,no ,Pass
+S1009,Rohan ,Femal,20,103,57,83,49,14,YES ,Fail
+S1177,Imran,M,18,98,69,40,108,17,,Fail
+S1024,Karan  ,f,19,25,47,98,19,15,n0,Pass
+S1213,Rohan ,f,18,106,94,16,71,,YES ,Pass
+S1077,Ali ,M,17,23,37,114,31,7,Yes,Fail
+S1204,Aisha  ,Female,19,115,14,53,39,1,Yes,Faill
+S1190,Fatima  ,f,17,98,73,41,0,11,n0,Faill
+S1206,Ali ,Femal,17,50,41,108,25,1,n0,
+S1242,Sanya  ,malee,21,35,58,40,1,13,YES ,Faill
+S1006,Fatima ,f,17,56,5,72,33,12,,Fail
+S1220,Aisha  ,M,19,9,7,64,98,7,No,Pass
+S1104,Karan,Male,21,23,28,57,-3,7,No,
+S1114,Neha  ,malee,19,73,57,102,118,,Yes,Faill
+S1119,Aman ,f,19,56,30,108,5,6,Yes,PASS 
+S1019,Aman,Femal,18,88,89,91,11,2,YES ,Pass
+S1201,Fatima,M,17,8,112,18,94,8,No,Faill
+S1179,Aman ,Femal,17,111,88,1,39,,No,Faill
+S1046,Imran ,M,18,42,51,103,75,7,no ,Pass
+S1075,Aman  ,malee,20,111,47,62,92,12,n0,
+S1045,Karan ,malee,19,-3,,41,2,,ye,PASS 
+S1154,Fatima  ,f,100,6,61,118,67,13,ye,Pass
+S1015,Aman,malee,18,93,93,98,75,13,ye,PASS 
+S1236,Karan,Femal,18,81,111,25,16,4,ye,Fail
+S1228,Imran ,malee,20,-8,3,116,73,,ye,Faill
+S1144,Habiba,Male,18,25,22,57,116,6,No,Faill
+S1033,Ali ,Male,21,75,26,32,95,14,n0,PASS 
+S1196,Sara ,Femal,20,59,73,31,42,11,no ,Fail
+S1101,Sara ,M,19,-1,6,51,78,,no ,Faill
+S1212,Aman ,Female,19,45,,97,-4,9,Yes,
+S1010,Karan  ,f,17,21,80,36,105,,,PASS 
+S1113,Sanya  ,Male,20,117,101,,55,12,ye,PASS 
+S1096,Fatima  ,M,19,28,55,-5,56,13,no ,Fail
+S1092,Neha,Male,20,58,45,95,117,,Yes,Faill
+S1150,Fatima  ,Male,21,12,19,,7,,,Fail
+S1025,Habiba  ,Female,20,9,77,33,33,4,No,Pass
+S1158,Imran,Female,18,101,28,,5,11,No,Faill
+S1018,Sara ,malee,19,15,0,119,34,10,ye,
+S1237,Rohan  ,Femal,17,79,114,,114,5,ye,PASS 
+S1139,Karan,Male,100,64,12,-5,48,7,ye,Faill
+S1068,Sara,Femal,17,79,,40,76,,no ,Faill
+S1097,Imran,Female,19,89,16,57,10,14,No,PASS 
+S1167,Sanya,f,18,72,58,45,-1,3,ye,PASS 
+S1090,Karan,Femal,17,75,55,-5,12,10,Yes,Faill
+S1205,Fatima  ,M,17,47,107,,52,3,n0,
+S1060,Karan,Female,18,103,46,5,,6,ye,
+S1247,Aman ,Male,0,-1,5,45,73,5,Yes,
+S1016,Aman  ,malee,18,32,,8,103,,YES ,Fail
+S1055,Sanya  ,Femal,21,36,92,30,26,2,no ,
+S1125,Aisha  ,Male,19,1,,80,66,,no ,Fail
+S1073,Fatima,Male,20,118,28,54,102,7,YES ,Faill
+S1226,Aman,f,100,43,67,28,57,3,n0,Fail
+S1079,Aman,Female,17,115,105,66,33,17,No,PASS 
+S1182,Rohan ,malee,21,-2,,79,109,2,,Pass
+S1038,Aisha  ,Male,19,47,33,4,51,17,YES ,PASS 
+S1066,Rohan  ,Male,17,81,,41,66,5,YES ,Faill
+S1140,Aisha  ,Female,0,109,32,72,41,7,No,PASS 
+S1067,Ali ,M,20,47,23,84,53,15,Yes,Faill
+S1229,Neha,Male,19,1,32,70,31,9,No,Pass
+S1246,Sanya,Male,19,36,66,101,105,6,YES ,Pass
+S1115,Aisha,Female,20,113,42,19,33,,n0,Faill
+S1109,Karan,M,17,5,41,,43,0,ye,Pass
+S1111,Fatima  ,M,18,69,50,85,82,12,YES ,
+S1165,Sara,Female,20,117,0,48,34,,YES ,Fail
+S1186,Sanya  ,M,20,111,0,23,92,,No,Pass
+S1120,Aisha ,f,20,54,-5,43,56,13,No,PASS 
+S1136,Sanya,Femal,19,94,-3,24,0,8,No,PASS 
+S1168,Ali  ,Male,17,100,53,91,118,12,YES ,Fail
+S1126,Habiba ,malee,20,84,50,57,87,11,YES ,Faill
+S1082,Fatima,f,18,78,112,86,-2,14,No,Fail
+S1141,Neha ,malee,18,10,109,109,3,17,,Fail
+S1069,Fatima  ,Male,100,106,68,101,110,,n0,Fail
+S1002,Imran  ,Femal,20,7,113,29,5,1,no ,Fail
+S1060,Karan,Female,18,103,46,5,,6,ye,
+S1084,Rohan  ,Male,18,118,,116,10,10,no ,PASS 
+S1127,Habiba ,Femal,20,35,8,98,57,16,Yes,
+S1183,Imran ,f,20,63,25,106,61,9,YES ,Pass
+S1086,Ali ,Female,20,58,,23,,0,no ,Pass
+S1142,Sanya  ,malee,19,90,9,107,93,,no ,Pass
+S1172,Neha,f,19,14,15,90,84,,YES ,
+S1029,Imran  ,f,17,81,-5,36,96,4,no ,
+S1195,Karan,Femal,18,25,56,-1,53,3,ye,Pass
+S1175,Neha,f,18,46,-2,26,22,17,ye,PASS 
+S1194,Sara ,Female,18,34,88,14,53,4,No,PASS 
+S1148,Aisha,Male,17,102,,49,56,3,n0,Pass
+S1005,Karan,f,18,47,59,117,107,2,ye,Pass
+S1056,Rohan ,f,17,88,76,20,4,,,PASS 
+S1137,Ali ,Male,20,47,105,13,-1,17,n0,Pass
+S1159,Ali  ,M,20,75,105,87,99,,n0,
+S1146,Habiba  ,malee,19,26,11,,117,,No,Faill
+S1065,Rohan ,Female,19,8,75,17,109,8,ye,Pass
+S1143,Ali ,Male,18,88,113,108,14,14,n0,Faill
+S1085,Aisha,Male,18,5,98,45,102,12,no ,Pass
+S1224,Sara ,f,18,-10,57,94,64,2,,Fail
+S1215,Ali  ,f,18,33,-3,23,33,,,Faill
+S1031,Sanya  ,Female,18,55,-2,105,6,0,ye,Fail
+S1012,Imran ,Femal,20,116,21,34,50,,,Pass
+S1035,Karan,malee,20,52,86,27,43,2,,PASS 
+S1028,Habiba,Female,19,104,104,,102,,No,Fail
+S1042,Fatima,M,17,4,44,91,56,7,YES ,Fail
+S1124,Fatima ,malee,18,18,41,112,53,9,,PASS 
+S1108,Sanya ,malee,18,-7,20,32,67,0,No,Faill
+S1117,Sara ,M,18,90,75,23,40,1,,Faill
+S1022,Rohan ,M,18,49,-3,47,98,,,Faill
+S1132,Aman,Femal,17,-3,8,56,101,8,ye,Pass
+S1093,Habiba  ,Female,19,36,15,84,33,8,YES ,Pass
+S1178,Fatima ,f,21,31,56,49,34,,No,Faill
+S1118,Ali ,Female,20,1,20,57,82,5,No,Faill
+S1051,Habiba  ,malee,20,-5,69,70,53,6,no ,Faill
+S1112,Fatima  ,malee,21,-9,88,11,31,0,,Fail
+S1164,Aman ,Male,17,17,95,66,3,,n0,
+S1095,Habiba  ,M,19,74,86,51,23,11,Yes,Pass
+S1244,Sara,Female,17,71,58,,27,,Yes,Pass
+S1209,Fatima,f,18,-10,58,3,33,3,n0,PASS 
+S1076,Neha,M,20,-10,,,,16,No,PASS 
+S1041,Sara ,Female,19,59,117,68,6,15,,Pass
+S1198,Karan,Female,20,97,38,93,101,17,ye,
+S1231,Imran ,Femal,19,5,89,111,90,13,ye,Fail
+S1078,Fatima,f,18,85,109,31,102,,YES ,Faill
+S1155,Neha,malee,18,102,103,81,62,10,,Pass
+S1026,Habiba ,Female,18,54,79,,29,,ye,
+S1112,Fatima  ,malee,21,-9,88,11,31,0,,Fail
+S1176,Neha,Male,19,28,88,114,75,5,ye,Fail
+S1000,Rohan,Femal,18,56,103,54,20,1,ye,Faill
+S1097,Imran,Female,19,89,16,57,10,14,No,PASS 
+S1100,Ali  ,Femal,17,12,,47,97,,no ,Faill
+S1197,Imran ,f,20,8,20,47,7,,n0,Faill
+S1184,Karan,Femal,18,-4,34,119,50,,ye,Fail
+S1098,Rohan ,Female,17,22,64,49,115,15,YES ,Faill
+S1036,Fatima ,M,18,114,89,80,11,16,n0,Faill
+S1061,Sanya ,Female,18,113,73,68,8,16,,Pass
+S1234,Aisha  ,Femal,18,-3,56,21,6,,YES ,Faill
+S1147,Ali,Femal,19,1,80,2,76,15,YES ,Faill
+S1011,Fatima,Male,0,75,53,83,63,10,n0,Pass
+S1184,Karan,Femal,18,-4,34,119,50,,ye,Fail
+S1208,Neha  ,Female,17,94,84,8,101,1,ye,Pass
+S1027,Karan,M,19,-3,72,61,,5,ye,Fail
+S1162,Karan  ,Male,19,65,77,51,23,12,YES ,Fail
+S1004,Ali ,Male,18,43,112,77,5,16,Yes,Faill
+S1122,Imran ,f,18,32,107,78,46,14,,PASS 
+S1032,Neha ,Female,17,21,107,27,13,5,no ,Pass
+S1152,Karan,Female,17,94,19,4,119,8,No,Faill
+S1192,Aisha,malee,21,75,112,,86,,YES ,Fail
+S1138,Fatima ,Femal,18,103,101,12,-1,11,ye,
+S1062,Aisha,f,20,95,24,98,73,11,ye,Pass
+S1135,Aman ,M,18,104,1,43,114,6,ye,
+S1128,Sara  ,Male,17,119,22,43,48,7,n0,Faill
+S1239,Neha  ,Femal,18,17,29,6,8,8,ye,Fail
+S1199,Fatima  ,f,20,80,,80,39,16,No,Fail
+S1070,Rohan,Female,20,51,11,98,97,,ye,Faill
+S1249,Imran,Femal,20,19,8,109,20,1,No,
+S1064,Aman  ,malee,18,52,45,,1,3,No,PASS 
+S1044,Aman  ,malee,18,90,48,32,77,16,YES ,Fail
+S1170,Ali  ,Male,19,58,115,2,66,,Yes,Faill
+S1156,Fatima,malee,19,51,105,49,95,17,Yes,PASS 
+S1040,Aisha ,M,17,38,-3,117,41,11,no ,Faill
+S1123,Imran  ,malee,17,33,93,99,-2,1,No,
+S1153,Sara  ,Female,19,19,62,104,83,9,Yes,PASS 
+S1023,Sara ,f,18,46,17,98,36,14,Yes,Faill
+S1197,Imran ,f,20,8,20,47,7,,n0,Faill
+S1193,Aman ,Femal,19,60,107,113,91,,Yes,Fail
+S1081,Habiba,f,19,37,89,100,114,13,ye,Fail
+S1039,Karan ,Female,19,75,112,-1,49,14,No,Pass
+S1222,Imran,Male,17,38,78,79,82,14,n0,Faill
+S1047,Rohan  ,Male,19,49,106,9,112,14,,Fail
+S1094,Aisha,Femal,20,83,-1,104,40,16,YES ,PASS 
+S1200,Rohan,f,19,79,64,102,83,,No,
+S1161,Ali,f,19,89,107,59,117,12,,Pass
+S1043,Habiba  ,Female,21,43,6,112,74,13,no ,Pass
+S1145,Imran ,Female,17,85,33,,55,10,,Pass
+S1180,Habiba  ,M,18,64,89,68,56,4,no ,
+S1003,Fatima  ,Male,19,14,27,-1,34,3,,Fail
+S1105,Sara,Female,18,85,72,19,114,17,YES ,Pass
+S1053,Karan ,Femal,20,105,32,89,20,11,No,
+S1133,Sara  ,f,18,82,50,26,51,5,n0,
+S1240,Aman ,Female,21,90,-5,47,23,,no ,
+S1230,Fatima  ,M,20,63,88,81,16,11,n0,Pass
+S1245,Neha,Femal,21,104,87,48,,1,ye,Faill
+S1049,Aman,malee,18,-6,79,41,83,17,YES ,Pass
+S1163,Habiba,Female,19,-2,36,61,70,,ye,Fail
+S1080,Imran  ,malee,20,107,74,,9,17,ye,
+S1034,Sanya,Male,0,40,28,91,38,1,Yes,
+S1216,Karan  ,Male,18,50,,103,7,11,no ,Fail
+S1007,Aman  ,malee,20,93,79,56,48,8,No,Faill
+S1171,Ali ,f,17,88,27,29,,,no ,
+S1221,Neha ,Female,19,36,,,92,,no ,PASS 
+S1110,Ali  ,Femal,18,13,115,,115,8,YES ,Faill
+S1091,Aisha ,Female,20,18,116,40,90,,no ,PASS 
+S1083,Fatima ,Male,17,106,2,25,87,5,No,Fail
+S1238,Rohan,Female,19,49,70,92,44,12,Yes,Faill
+S1241,Neha  ,Male,0,30,34,116,119,14,,PASS 
+S1089,Fatima  ,f,19,65,87,5,7,7,YES ,Fail
+S1008,Aman  ,malee,19,13,20,,92,6,n0,PASS 
+S1013,Neha ,f,18,119,92,66,27,1,YES ,PASS 
+S1059,Rohan,M,18,2,85,63,80,13,ye,Faill
+S1227,Sanya  ,M,18,107,11,11,54,15,,Fail
+S1131,Habiba  ,M,18,79,103,117,68,5,,Fail
+S1017,Aisha ,Female,19,28,49,26,67,,YES ,Fail
+S1166,Aisha ,malee,18,41,20,61,19,13,,PASS 
+S1072,Rohan ,Female,17,116,63,98,8,1,YES ,Pass
+S1232,Karan,Male,19,91,43,100,62,13,YES ,
+S1134,Neha  ,Male,21,79,109,23,-3,8,No,Fail
+S1006,Fatima ,f,17,56,5,72,33,12,,Fail
+S1243,Imran,malee,18,24,54,58,23,6,No,Fail
+S1063,Aisha,Male,18,109,100,32,111,,no ,
+S1054,Imran ,f,19,83,44,109,41,,,Pass
+S1107,Karan,Male,20,58,67,69,31,1,ye,Fail
+S1050,Fatima ,f,0,92,60,62,6,,,Pass
+S1217,Habiba ,malee,20,36,4,92,40,2,n0,Fail
+S1174,Sanya ,Male,19,42,106,72,54,11,YES ,Fail
+S1225,Rohan  ,Female,18,106,95,35,68,7,Yes,Fail
+S1189,Aman ,malee,18,72,-2,,27,6,n0,PASS 
+S1014,Habiba,Female,18,6,99,33,30,14,no ,Faill
+S1207,Ali ,f,19,116,-5,109,17,14,n0,Fail
+S1233,Ali  ,f,19,106,63,80,11,1,Yes,Faill
+S1219,Aman ,malee,20,107,,69,11,17,,Faill
+S1169,Karan,Male,19,106,103,86,32,7,ye,PASS 
+S1058,Sara,malee,17,41,73,21,20,14,n0,
+S1218,Fatima ,Female,19,69,-1,31,107,12,,Pass
+S1048,Karan ,M,19,97,41,-1,19,13,no ,Pass
+S1088,Rohan ,M,20,82,90,35,28,8,no ,Fail
+S1021,Fatima  ,Male,17,2,96,57,55,11,,PASS 
+S1057,Sara,malee,18,44,24,37,10,13,Yes,Fail
+S1203,Rohan ,Femal,20,115,13,114,,,YES ,PASS 
+S1160,Aman ,Male,18,8,2,2,61,11,Yes,
+S1181,Fatima,Female,17,65,49,1,87,8,No,Fail
+S1187,Aman  ,malee,19,-6,60,76,34,14,n0,Fail
+S1191,Ali  ,f,20,54,,5,74,16,No,Pass
+S1129,Sanya,M,19,24,72,65,111,10,ye,Fail
+S1037,Neha ,M,17,47,66,60,68,11,,Pass
+S1157,Aman ,Female,20,73,105,26,92,,,
+S1235,Aman,Femal,20,111,72,51,112,4,n0,Pass
+S1248,Aisha,M,0,45,99,30,52,16,,Fail
+S1001,Aman  ,malee,0,117,-1,24,23,13,ye,Faill
+S1052,Habiba  ,malee,21,98,97,,103,2,YES ,Fail
+S1149,Ali  ,Femal,18,2,38,97,-3,5,Yes,
+S1130,Sara,M,19,70,,-5,104,2,Yes,Pass
+S1151,Rohan ,malee,18,88,7,26,114,2,Yes,Pass
+S1103,Ali ,Female,19,89,40,29,59,9,Yes,
+S1099,Fatima ,f,17,90,-5,109,4,,No,Fail
+S1116,Sara  ,Femal,20,22,55,82,57,6,YES ,Pass
+S1087,Ali  ,Femal,19,11,19,34,49,5,No,
+S1202,Sara,Male,18,28,62,75,1,3,YES ,Fail
+S1074,Neha,malee,20,47,0,94,39,10,ye,Pass
+S1214,Rohan,M,20,47,71,-2,6,,No,Pass
+S1210,Sanya  ,malee,19,81,32,34,76,5,n0,PASS 
+S1121,Imran,malee,20,63,2,75,71,17,ye,Pass
+S1104,Karan,Male,21,23,28,57,-3,7,No,
+S1020,Aman  ,Femal,19,39,,17,,16,Yes,PASS 
+S1188,Sanya  ,M,19,18,69,-4,85,0,Yes,PASS 
+S1071,Ali,M,18,12,78,105,11,,No,Faill
+S1106,Aman  ,Male,19,-10,39,84,62,0,Yes,Pass
+S1102,Sanya  ,Female,18,58,84,111,,0,No,
